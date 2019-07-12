@@ -1,3 +1,0 @@
-credits: Soft, Righteous, Acre, Logodum, 8bit
-
-description: A combo mod that adds a ton of new content, including new enemies, items, zlevels, keeper types, and even entire civilizations.
